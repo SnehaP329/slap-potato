@@ -1,0 +1,64 @@
+body {
+  background-color: #fceabb;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+#potato {
+  position: absolute;
+  font-size: 200px;
+  cursor: pointer;
+}
+
+#score {
+  font-size: 24px;
+  margin: 20px;
+}
+#game-over {
+  font-size: 28px;
+  color: red;
+  text-align: center;
+  margin-top: 20px;
+}
+
+#timer {
+  font-size: 22px;
+  margin-bottom: 10px;
+}
+button {
+  padding: 10px 20px;
+  font-size: 18px;
+  cursor: pointer;
+  margin-top: 15px;
+  border-radius: 10px;
+  background-color: orange;
+  border: none;
+  color: white;
+}
+button:hover {
+  background-color: darkorange;
+}
+
+#timer {
+  font-size: 22px;
+  margin-bottom: 10px;
+}
+
+#restart-btn {
+  padding: 10px 20px;
+  font-size: 18px;
+  cursor: pointer;
+  margin-top: 15px;
+  border-radius: 10px;
+  background-color: orange;
+  border: none;
+  color: white;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+#restart-btn:hover {
+  background-color: darkorange;
+}
