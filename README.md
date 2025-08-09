@@ -17,7 +17,7 @@ Built with *HTML, **CSS, and **JavaScript*.
 - A surprisingly agile potato
 
 ## 🚀 Play Online
-https://yourusername.github.io/slap-the-potato/  
+https://snehap329.github.io/slap-potato/
 *(Replace yourusername with your GitHub username.)*
 
 ## 📂 Installation
